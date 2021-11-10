@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'ArbFONTS';
+  src: url("./ArbFONTS-Loew-Next-Arabic-Light.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ArbFONTS';
+  src: url("./ArbFONTS-Loew-Next-Arabic-Medium.woff2") format('woff2');
+  font-weight: medium;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ArbFONTS';
+  src: url("./ArbFONTS-Loew-Next-Arabic-Bold.woff2") format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+body{
+  font-family: 'ArbFONTS';
+}
